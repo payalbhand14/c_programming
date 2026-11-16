@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////
-//     Funtion name :   CountWhite
+//     Funtion name :   CharChk
 //     Description  :   accept string from user and accept character 
 //                      check character is present in string og not  
 //     Input        :   "Marve8llous"
